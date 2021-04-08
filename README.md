@@ -1,2 +1,2 @@
 # Python_lab_5
-Iot 2021. Second term
+IoT 2021. Spring term.
